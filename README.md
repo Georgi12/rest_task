@@ -1,5 +1,4 @@
-# PRL Pipeline
-REST приложения для Kaspersky
+# REST приложения для Kaspersky
 
 ## Локальный запуск проекта
 
