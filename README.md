@@ -6,8 +6,8 @@
    Установить python актуальной
    версии:
     ```bash
-    pyenv install 3.9.17
-    pyenv local 3.9.17
+    pyenv install 3.11
+    pyenv local 3.11
    ```
 
 2. Установить зависимости
